@@ -1,8 +1,8 @@
 {
   "name": "D7A DASH",
   "short_name": "GeoDash",
-  "description": "A neon-themed infinite runner platformer game.",
   "id": "com.d7adash.game",
+  "description": "A neon-themed infinite runner platformer game.",
   "display": "standalone",
   "orientation": "landscape",
   "start_url": "./",
