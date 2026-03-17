@@ -6,4 +6,19 @@
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#050510",
-  "theme_color": "#050510"
+  "theme_color": "#050510",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlSThBAAAAMFBMVEUAAAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD7Ym83AAAAD3RSTlMA9v7+/v7+/v7+/v7+/v7+/r/r6wAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADtJREFUeN7twTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbN8AAAAnm99EAAAAASUVORK5CYII=",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlSThBAAAAMFBMVEUAAAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD/ZAD7Ym83AAAAD3RSTlMA9v7+/v7+/v7+/v7+/v7+/r/r6wAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADtJREFUeN7twTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbN8AAAAnm99EAAAAASUVORK5CYII=",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
