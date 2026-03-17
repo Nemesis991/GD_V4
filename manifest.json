@@ -8,6 +8,7 @@
   "start_url": "./",
   "background_color": "#050510",
   "theme_color": "#050510",
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/GoogleChromeLabs/maskable-resources/main/static/images/rounded/icon-192x192.png",
@@ -16,10 +17,22 @@
       "purpose": "any"
     },
     {
+      "src": "https://raw.githubusercontent.com/GoogleChromeLabs/maskable-resources/main/static/images/rounded/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
       "src": "https://raw.githubusercontent.com/GoogleChromeLabs/maskable-resources/main/static/images/rounded/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/GoogleChromeLabs/maskable-resources/main/static/images/rounded/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
