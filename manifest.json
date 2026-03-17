@@ -2,6 +2,7 @@
   "name": "D7A DASH",
   "short_name": "GeoDash",
   "description": "A neon-themed infinite runner platformer game.",
+  "id": "com.d7adash.game",
   "display": "standalone",
   "orientation": "landscape",
   "start_url": "./",
@@ -9,16 +10,16 @@
   "theme_color": "#050510",
   "icons": [
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AgKCQ8X6zY7mAAAADBJREFUeNrtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARm7pAAAB679pAAAAAElFTkSuQmCC",
+      "src": "https://raw.githubusercontent.com/GoogleChromeLabs/maskable-resources/main/static/images/rounded/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AgKCQ8X6zY7mAAAADBJREFUeNrtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARm7pAAAB679pAAAAAElFTkSuQmCC",
+      "src": "https://raw.githubusercontent.com/GoogleChromeLabs/maskable-resources/main/static/images/rounded/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }

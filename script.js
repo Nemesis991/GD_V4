@@ -165,6 +165,12 @@ function init() {
         }
     }, 2500);
 
+    // Register Service Worker for PWA
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js')
+            .then(reg => console.log('SW registered!', reg.scope))
+            .catch(err => console.log('SW failed!', err));
+    }
     // Input handling
     window.addEventListener('keydown', (e) => {
         if (e.code === 'Space') {
