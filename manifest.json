@@ -4,7 +4,7 @@
   "description": "A neon-themed infinite runner platformer game.",
   "display": "standalone",
   "orientation": "landscape",
-  "start_url": "index.html",
+  "start_url": "./",
   "background_color": "#050510",
   "theme_color": "#050510",
   "icons": [
